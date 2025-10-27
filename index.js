@@ -1,5 +1,4 @@
 console.log("hello");
-
-function add() {
-  return null;
+const logger = (msg)=>{
+  console.log(msg)
 }
